@@ -250,7 +250,7 @@ border: none;
 }
 
 .about_textual_content .card {
-    width: 50%;
+    width: 80%;
     margin: 3%;
     background-color: #f8f9fa !important;
     display: flex;
